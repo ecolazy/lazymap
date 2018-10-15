@@ -370,3 +370,32 @@
 2018-10-16T00:19:51.933126573 0.078883s notice: Loading data from directory /home/ecolazy/Processing/Map/alpha/rethinkdb_data
 2018-10-16T00:19:51.963481803 0.109239s info: Automatically using cache size of 315 MB
 2018-10-16T00:19:51.964176580 0.109933s error: TCP socket creation failed for port 29015: Address already in use.
+2018-10-16T00:24:21.374500055 0.072945s notice: Running rethinkdb 2.3.6 (GCC 8.2.1)...
+2018-10-16T00:24:21.389247279 0.087696s notice: Running on Linux 4.9.131-1-MANJARO x86_64
+2018-10-16T00:24:21.389393871 0.087839s notice: Loading data from directory /home/ecolazy/Processing/Map/lazymap/rethinkdb_data
+2018-10-16T00:24:21.426195559 0.124641s info: Automatically using cache size of 344 MB
+2018-10-16T00:24:21.427417604 0.125863s error: TCP socket creation failed for port 29015: Address already in use.
+2018-10-16T00:24:49.211227637 0.074682s notice: Running rethinkdb 2.3.6 (GCC 8.2.1)...
+2018-10-16T00:24:49.223447287 0.086905s notice: Running on Linux 4.9.131-1-MANJARO x86_64
+2018-10-16T00:24:49.223554380 0.087008s notice: Loading data from directory /home/ecolazy/Processing/Map/lazymap/rethinkdb_data
+2018-10-16T00:24:49.254519695 0.117973s info: Automatically using cache size of 375 MB
+2018-10-16T00:24:49.255344174 0.118798s error: TCP socket creation failed for port 29015: Address already in use.
+2018-10-16T00:25:35.681322016 0.118618s notice: Running rethinkdb 2.3.6 (GCC 8.2.1)...
+2018-10-16T00:25:35.692724241 0.130023s notice: Running on Linux 4.9.131-1-MANJARO x86_64
+2018-10-16T00:25:35.692827752 0.130123s notice: Loading data from directory /home/ecolazy/Processing/Map/lazymap/rethinkdb_data
+2018-10-16T00:25:35.738759743 0.176055s info: Automatically using cache size of 401 MB
+2018-10-16T00:25:35.739393300 0.176688s notice: Listening for intracluster connections on port 29015
+2018-10-16T00:25:35.773952447 0.211248s notice: Listening for client driver connections on port 28015
+2018-10-16T00:25:35.774509804 0.211805s notice: Listening for administrative HTTP connections on port 8080
+2018-10-16T00:25:35.774518121 0.211813s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2018-10-16T00:25:35.774527494 0.211823s notice: Listening on driver addresses: 127.0.0.1, ::1
+2018-10-16T00:25:35.774535060 0.211830s notice: Listening on http addresses: 127.0.0.1, ::1
+2018-10-16T00:25:35.774557832 0.211853s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-10-16T00:25:35.774565590 0.211861s notice: Server ready, "Reuben_T420_d0l" c84c7fd2-01c4-4a3c-a3dc-dd82fc316e06
+2018-10-16T00:25:36.851555886 1.288852s info: Table 3eb79bff-cc26-4672-9a5d-f7d42d93cd4c: Starting a new Raft election for term 14.
+2018-10-16T00:25:36.864678882 1.301975s info: Table 3eb79bff-cc26-4672-9a5d-f7d42d93cd4c: This server is Raft leader for term 14. Latest log index is 38.
+2018-10-16T00:26:19.608162011 44.045458s notice: Removing file /home/ecolazy/Processing/Map/lazymap/rethinkdb_data/3eb79bff-cc26-4672-9a5d-f7d42d93cd4c
+2018-10-16T00:26:19.608178475 44.045474s info: Table 3eb79bff-cc26-4672-9a5d-f7d42d93cd4c: Deleted the table.
+2018-10-16T00:26:31.424209134 55.861506s info: Table 5a6f8ec0-6886-450e-bfdb-15bca5dbd816: Starting a new Raft election for term 1.
+2018-10-16T00:26:31.424370940 55.861666s info: Table 5a6f8ec0-6886-450e-bfdb-15bca5dbd816: Added replica on this server.
+2018-10-16T00:26:31.438814895 55.876111s info: Table 5a6f8ec0-6886-450e-bfdb-15bca5dbd816: This server is Raft leader for term 1. Latest log index is 0.

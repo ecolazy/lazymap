@@ -1,0 +1,25 @@
+{
+  "name": "alpha",
+  "version": "1.0.0",
+  "description": "### Dependencies * nodemon * rethinkdb",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "package.json": "^2.0.1",
+    "path": "^0.12.7",
+    "rethinkdb": "^2.3.3",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rofor/alpha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rofor/alpha/issues"
+  },
+  "homepage": "https://github.com/rofor/alpha#readme"
+}
